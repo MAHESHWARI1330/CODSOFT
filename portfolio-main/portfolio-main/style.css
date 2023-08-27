@@ -1,0 +1,15 @@
+body{
+    margin: 1cm 1cm 1cm 1cm;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Signika Negative', sans-serif;
+}
+h1{
+    font-size:50px;
+    font-family: "Times New Roman", Times, serif;
+}
+th{
+    font-size: 25px;
+}
+
